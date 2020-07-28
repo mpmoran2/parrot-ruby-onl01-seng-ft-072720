@@ -1,5 +1,5 @@
-def parrot()
-  puts "Squawk!"
+def parrot(phrase == "Squawk")
+  puts #{phrase}
 end
 
 parrot
