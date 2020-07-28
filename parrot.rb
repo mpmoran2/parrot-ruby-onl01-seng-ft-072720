@@ -1,4 +1,4 @@
-def parrot
+def parrot()
   puts "Squak!"
 end
 
